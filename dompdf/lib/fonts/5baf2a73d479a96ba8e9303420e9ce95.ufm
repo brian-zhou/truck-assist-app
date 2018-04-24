@@ -1,0 +1,144 @@
+StartFontMetrics 4.1
+Notice Converted by PHP-font-lib
+Comment https://github.com/PhenX/php-font-lib
+EncodingScheme FontSpecific
+FontName flaticon
+FontSubfamily Regular
+UniqueID FontForge 2.0 : flaticon : 30-10-2014
+FullName flaticon
+Version Version 1.0
+PostScriptName flaticon
+Weight Medium
+ItalicAngle 0
+IsFixedPitch false
+UnderlineThickness 0
+UnderlinePosition 0
+FontHeightOffset 90
+Ascender 877
+Descender -127
+FontBBox -2 -127 1686 877
+StartCharMetrics 125
+U 57344 ; WX 1230 ; N amplified ; G 3
+U 57345 ; WX 1000 ; N arrow434 ; G 4
+U 57346 ; WX 1000 ; N arrow435 ; G 5
+U 57347 ; WX 1000 ; N arrow436 ; G 6
+U 57348 ; WX 625 ; N arrow437 ; G 7
+U 57349 ; WX 625 ; N arrowhead4 ; G 8
+U 57350 ; WX 1230 ; N audio28 ; G 9
+U 57351 ; WX 902 ; N battery74 ; G 10
+U 57352 ; WX 500 ; N big80 ; G 11
+U 57353 ; WX 813 ; N big81 ; G 12
+U 57354 ; WX 811 ; N blank20 ; G 13
+U 57355 ; WX 1000 ; N camera43 ; G 14
+U 57356 ; WX 1334 ; N cassette7 ; G 15
+U 57357 ; WX 1000 ; N cinema13 ; G 16
+U 57358 ; WX 1000 ; N circular45 ; G 17
+U 57359 ; WX 1000 ; N circular46 ; G 18
+U 57360 ; WX 875 ; N circular47 ; G 19
+U 57361 ; WX 875 ; N circular48 ; G 20
+U 57362 ; WX 1000 ; N circular49 ; G 21
+U 57363 ; WX 1000 ; N circular50 ; G 22
+U 57364 ; WX 1000 ; N cloud102 ; G 23
+U 57365 ; WX 1000 ; N cloudy12 ; G 24
+U 57366 ; WX 750 ; N coffee17 ; G 25
+U 57367 ; WX 1000 ; N cogwheel8 ; G 26
+U 57368 ; WX 1000 ; N compact8 ; G 27
+U 57369 ; WX 1000 ; N compass39 ; G 28
+U 57370 ; WX 1684 ; N connected8 ; G 29
+U 57371 ; WX 1000 ; N crop2 ; G 30
+U 57372 ; WX 1000 ; N cross39 ; G 31
+U 57373 ; WX 750 ; N curve19 ; G 32
+U 57374 ; WX 1000 ; N diamond18 ; G 33
+U 57375 ; WX 750 ; N document58 ; G 34
+U 57376 ; WX 469 ; N dollar79 ; G 35
+U 57377 ; WX 500 ; N door7 ; G 36
+U 57378 ; WX 750 ; N double23 ; G 37
+U 57379 ; WX 1455 ; N double24 ; G 38
+U 57380 ; WX 1000 ; N downloading3 ; G 39
+U 57381 ; WX 1000 ; N drawing4 ; G 40
+U 57382 ; WX 854 ; N empty20 ; G 41
+U 57383 ; WX 832 ; N eyes ; G 42
+U 57384 ; WX 1000 ; N fast10 ; G 43
+U 57385 ; WX 1000 ; N fast11 ; G 44
+U 57386 ; WX 1000 ; N file24 ; G 45
+U 57387 ; WX 1000 ; N film24 ; G 46
+U 57388 ; WX 531 ; N fire13 ; G 47
+U 57389 ; WX 656 ; N flag26 ; G 48
+U 57390 ; WX 625 ; N flat10 ; G 49
+U 57391 ; WX 1186 ; N fluff1 ; G 50
+U 57392 ; WX 1000 ; N four26 ; G 51
+U 57393 ; WX 902 ; N full21 ; G 52
+U 57394 ; WX 1000 ; N grocery10 ; G 53
+U 57395 ; WX 877 ; N half11 ; G 54
+U 57396 ; WX 1000 ; N heart66 ; G 55
+U 57397 ; WX 1000 ; N home62 ; G 56
+U 57398 ; WX 688 ; N huge3 ; G 57
+U 57399 ; WX 1000 ; N increasing5 ; G 58
+U 57400 ; WX 1000 ; N kings ; G 59
+U 57401 ; WX 1000 ; N letter11 ; G 60
+U 57402 ; WX 563 ; N light44 ; G 61
+U 57403 ; WX 1000 ; N lines ; G 62
+U 57404 ; WX 902 ; N low20 ; G 63
+U 57405 ; WX 1000 ; N magnification3 ; G 64
+U 57406 ; WX 1000 ; N maps5 ; G 65
+U 57407 ; WX 813 ; N mathematical3 ; G 66
+U 57408 ; WX 688 ; N microphone26 ; G 67
+U 57409 ; WX 1000 ; N molecular ; G 68
+U 57410 ; WX 1455 ; N multiple18 ; G 69
+U 57411 ; WX 1000 ; N music63 ; G 70
+U 57412 ; WX 1000 ; N mute7 ; G 71
+U 57413 ; WX 1000 ; N navigation8 ; G 72
+U 57414 ; WX 1000 ; N newspaper8 ; G 73
+U 57415 ; WX 1004 ; N no16 ; G 74
+U 57416 ; WX 1000 ; N open89 ; G 75
+U 57417 ; WX 1143 ; N open90 ; G 76
+U 57418 ; WX 688 ; N padlock18 ; G 77
+U 57419 ; WX 1000 ; N paint26 ; G 78
+U 57420 ; WX 1000 ; N paper43 ; G 79
+U 57421 ; WX 1000 ; N paper44 ; G 80
+U 57422 ; WX 1000 ; N personal5 ; G 81
+U 57423 ; WX 1016 ; N phone51 ; G 82
+U 57424 ; WX 1000 ; N picture10 ; G 83
+U 57425 ; WX 531 ; N plant10 ; G 84
+U 57426 ; WX 1000 ; N play35 ; G 85
+U 57427 ; WX 1000 ; N previous6 ; G 86
+U 57428 ; WX 1000 ; N profile7 ; G 87
+U 57429 ; WX 1000 ; N public5 ; G 88
+U 57430 ; WX 1000 ; N rainy5 ; G 89
+U 57431 ; WX 875 ; N religion1 ; G 90
+U 57432 ; WX 1000 ; N rewind22 ; G 91
+U 57433 ; WX 1000 ; N rotating10 ; G 92
+U 57434 ; WX 1279 ; N rotating9 ; G 93
+U 57435 ; WX 1000 ; N round30 ; G 94
+U 57436 ; WX 1014 ; N round31 ; G 95
+U 57437 ; WX 1330 ; N rounded25 ; G 96
+U 57438 ; WX 1000 ; N rounded26 ; G 97
+U 57439 ; WX 813 ; N royalty ; G 98
+U 57440 ; WX 1000 ; N scissors14 ; G 99
+U 57441 ; WX 875 ; N shopping63 ; G 100
+U 57442 ; WX 1000 ; N signal21 ; G 101
+U 57443 ; WX 1000 ; N simple47 ; G 102
+U 57444 ; WX 1000 ; N small139 ; G 103
+U 57445 ; WX 1000 ; N snowflake3 ; G 104
+U 57446 ; WX 1000 ; N speech54 ; G 105
+U 57447 ; WX 1000 ; N spring11 ; G 106
+U 57448 ; WX 1000 ; N square51 ; G 107
+U 57449 ; WX 1000 ; N square52 ; G 108
+U 57450 ; WX 1000 ; N square53 ; G 109
+U 57451 ; WX 1000 ; N square54 ; G 110
+U 57452 ; WX 1000 ; N square55 ; G 111
+U 57453 ; WX 1000 ; N square56 ; G 112
+U 57454 ; WX 1000 ; N square57 ; G 113
+U 57455 ; WX 1000 ; N stop20 ; G 114
+U 57456 ; WX 1000 ; N sun30 ; G 115
+U 57457 ; WX 1002 ; N syncing ; G 116
+U 57458 ; WX 1002 ; N telephone63 ; G 117
+U 57459 ; WX 1000 ; N trash27 ; G 118
+U 57460 ; WX 998 ; N triangle14 ; G 119
+U 57461 ; WX 1000 ; N tshirt14 ; G 120
+U 57462 ; WX 1000 ; N umbrella14 ; G 121
+U 57463 ; WX 1000 ; N user73 ; G 122
+U 57464 ; WX 1334 ; N wide6 ; G 123
+U 57465 ; WX 1143 ; N world29 ; G 124
+EndCharMetrics
+EndFontMetrics

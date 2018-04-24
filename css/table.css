@@ -1,0 +1,32 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 29 Jan 2018, 3:26:43 PM
+    Author     : Brian Zhou
+*/
+
+#t01 {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#t01 td, #t01 th {
+    border: 1px solid #ddd; 
+    padding: 8px;
+}
+
+#t01 tr:nth-child(even){background-color: #f2f2f2;}
+
+#t01 tr:hover {background-color: #ddd;}
+
+#t01 th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: gray;
+    color: white;
+}
